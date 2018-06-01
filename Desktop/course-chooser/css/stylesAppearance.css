@@ -1,0 +1,113 @@
+body {
+  font-family: sans-serif;
+  background: linear-gradient(to right, #04385b , #eaf3f9);
+}
+
+p {
+  font-size: 1.1em;
+}
+
+b {
+  color: #04385b;
+}
+
+.jumbotron {
+  font-size: 50px;
+  color: #04385b;
+}
+
+h2 {
+  font-size: 40px;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+  color: #04385b;
+}
+
+h4 {
+  font-size: 20px;
+  color: #04385b;
+}
+
+.panel {
+  border: 1px solid #04385b;
+  border-color: #04385b;
+}
+
+.panel-info {
+  border-color: #04385b;
+  background-color: #04385b;
+}
+
+.panel-info > .panel-heading {
+  background-color: #04385b;
+}
+
+.panel-title {
+  border-color: #04385b;
+  background-color: #04385b;
+}
+
+.panel-heading {
+  border-color: #04385b;
+  background-color: #04385b;
+}
+
+.white {
+  background-color: #FFFFFF;
+}
+
+.lightcolor {
+  background-color: #eaf3f9;
+}
+
+.darkcolor {
+  background-color: #04385b;
+}
+
+.buffer {
+  padding: 15px;
+}
+
+.section-title {
+  font-weight: bold;
+  color: #eaf3f9;
+}
+
+.main-title {
+  font-weight: bold;
+  color: #04385b;
+}
+
+.portrait {
+  padding: 5px;
+  margin: 5px;
+  width: 95%;
+  border: 2px;
+  border-color: #04385b;
+  justify-content: center;
+}
+
+.thumbnail {
+  padding: 5px;
+  margin: 5px;
+  width: 200px;
+  border: 2px;
+  border-color: #04385b;
+  float: left;
+  vertical-align: top;
+}
+
+.left {
+  float: left;
+}
+
+.right {
+  float: right;
+}
+
+.header {
+  margin: 5px;
+}
