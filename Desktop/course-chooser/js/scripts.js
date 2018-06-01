@@ -1,8 +1,8 @@
 function hideAll() {
-  $("#caddy").hide();
-  $("#zissou").hide();
-  $("#groundhog").hide();
-  $("#ghost").hide();
+  $("#css").hide();
+  $("#cSharp").hide();
+  $("#php").hide();
+
 }
 
 $(document).ready(function() {
@@ -18,27 +18,20 @@ $(document).ready(function() {
 
     if (result <= 5) {
       hideAll();
-      $("#caddy").show();
+      $("#css").show();
       result.empty();
     } else if (result > 5 && result <= 10) {
       hideAll();
-      $("#zissou").show();
+      $("#cSharp").show();
       result.empty();
-    } else if (result > 10 && result <= 15) {
+    } else if (result > 10 && result <= 20) {
       hideAll();
-      $("#groundhog").show();
-      result.empty();
-    } else if (result > 15 && result <= 20){
-      hideAll();
-      $("#ghost").show();
+      $("#php").show();
       result.empty();
     } else {
       hideAll();
-      alert("you missed one!");
+      alert("you missed one!  Please try again.");
     }
-
-
-
   });
 });
 
