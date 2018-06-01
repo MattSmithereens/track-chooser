@@ -14,8 +14,6 @@ $(document).ready(function() {
     var answer4 = parseInt($("input:radio[name=q4]:checked").val());
     var answer5 = parseInt($("input:radio[name=q5]:checked").val());
     var result = (answer1+answer2+answer3+answer4+answer5);
-    console.log(result);
-
 
     if (result <= 6) {
       hideAll();
