@@ -10,7 +10,7 @@ This page is an excercise in branching and displaying content according to user 
 
 Repository: https://github.com/MattSmithereens/track-chooser/tree/master/Desktop/course-chooser
 
-Preview Page: http://MattSmithereens.github.io/track-chooser
+Preview Page: https://mattsmithereens.github.io/track-chooser/Desktop/course-chooser/
 
 ## Setup/Installation Requirements
 
