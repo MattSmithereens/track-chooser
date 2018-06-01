@@ -21,11 +21,11 @@ $(document).ready(function() {
       hideAll();
       $("#css").show();
       result.empty();
-    } else if (result > 8 && result <= 14) {
+    } else if (result > 8 && result <= 20) {
       hideAll();
       $("#cSharp").show();
       result.empty();
-    } else if (result > 14 && result <= 21) {
+    } else if (result > 20 && result <= 25) {
       hideAll();
       $("#php").show();
       result.empty();
