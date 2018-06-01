@@ -1,9 +1,7 @@
-
-
 .resultDisplay img {
   display: none;
 }
 
-p.resultBox {
+.resultBox {
   display: none;
 }

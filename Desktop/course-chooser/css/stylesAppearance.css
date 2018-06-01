@@ -4,7 +4,7 @@ body {
 }
 
 p {
-  font-size: 1.1em;
+  font-size: .95em;
 }
 
 b {
@@ -17,7 +17,8 @@ b {
 }
 
 h2 {
-  font-size: 40px;
+  font-size: 20px;
+  margin-left: 3px;
 }
 
 h3 {
