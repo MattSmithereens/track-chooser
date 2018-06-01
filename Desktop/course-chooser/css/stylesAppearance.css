@@ -94,3 +94,9 @@ h4 {
 .header {
   margin: 5px;
 }
+
+img.logo {
+  padding: 5px;
+  float: right;
+  width: 150px;
+}

@@ -17,15 +17,15 @@ $(document).ready(function() {
     console.log(result);
 
 
-    if (result <= 7) {
+    if (result <= 6) {
       hideAll();
       $("#css").show();
       result.empty();
-    } else if (result > 8 && result <= 20) {
+    } else if (result > 6 && result <= 11) {
       hideAll();
       $("#cSharp").show();
       result.empty();
-    } else if (result > 20 && result <= 25) {
+    } else if (result > 11 && result <= 15) {
       hideAll();
       $("#php").show();
       result.empty();
