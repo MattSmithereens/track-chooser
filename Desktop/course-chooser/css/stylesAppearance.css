@@ -100,3 +100,8 @@ img.logo {
   float: right;
   width: 150px;
 }
+
+.btn-dark {
+  color: #fff;
+  background-color: #04385b;
+  border-color: #04385b;
